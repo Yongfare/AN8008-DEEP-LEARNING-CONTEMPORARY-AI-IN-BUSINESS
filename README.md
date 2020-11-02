@@ -1,0 +1,2 @@
+# AN8008-DEEP-LEARNING-CONTEMPORARY-AI-IN-BUSINESS
+Course material and group project for AN8008.
